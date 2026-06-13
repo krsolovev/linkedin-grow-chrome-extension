@@ -1,4 +1,4 @@
-# Getting started with LinkedIn Connections
+# Getting started with LinkedIn Connect
 
 This example demonstrates the simplest connection automation tool for LinkedIn with one-click activation.
 
